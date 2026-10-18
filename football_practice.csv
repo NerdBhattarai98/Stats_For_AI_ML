@@ -1,0 +1,401 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2010-01-04,Germany,France,1,1,FIFA World Cup qualification,Munich,Germany,False
+2010-01-26,India,Egypt,0,3,Friendly,Istanbul,Turkey,True
+2010-01-26,India,South Korea,1,3,Friendly,Kolkata,India,False
+2010-03-10,India,USA,0,0,FIFA World Cup,Miami,United States,True
+2010-04-09,Bhutan,Spain,0,3,Friendly,,United States,True
+2010-05-01,South Korea,Iran,2,0,FIFA World Cup qualification,Seoul,South Korea,False
+2010-05-02,Nepal,England,1,0,FIFA World Cup qualification,Kathmandu,Nepal,False
+2010-05-07,Egypt,Croatia,2,1,AFC Asian Cup,Johannesburg,South Africa,True
+2010-05-10,South Korea,Spain,0,0,UEFA Euro qualification,Seoul,South Korea,False
+2010-05-21,Egypt,England,1,1,Friendly,Cairo,Egypt,False
+2010-05-23,Bhutan,Germany,0,0,FIFA World Cup,Johannesburg,South Africa,True
+2010-05-23,Bhutan,Germany,0,0,FIFA World Cup,Johannesburg,South Africa,True
+2010-05-25,Brazil,Italy,4,1,FIFA World Cup,Doha,Qatar,True
+2010-06-14,Spain,Portugal,1,1,Friendly,Madrid,Spain,False
+2010-06-30,Egypt,Mexico,1,4,Friendly,Cairo,Egypt,False
+2010-07-07,Morocco,Portugal,2,0,African Cup of Nations,Casablanca,Morocco,False
+2010-07-24,India,Mexico,0,1,FIFA World Cup,Doha,Qatar,True
+2010-08-01,USA,Germany,1,2,Friendly,Chicago,United States,False
+2010-08-03,Japan,Netherlands,2,1,Friendly,Vienna,Austria,True
+2010-08-16,Nigeria,Croatia,0,0,FIFA World Cup qualification,Lagos,Nigeria,False
+2010-08-21,Bhutan,Croatia,0,2,FIFA World Cup qualification,Thimphu,Bhutan,False
+2010-08-25,Argentina,Nigeria,3,1,Friendly,Buenos Aires,Argentina,False
+2010-09-03,Egypt,Portugal,1,2,FIFA World Cup qualification,Cairo,Egypt,False
+2010-09-14,Egypt,Uruguay,1,0,Friendly,Cairo,Egypt,False
+2010-09-16,Brazil,Japan,0,1,African Cup of Nations,Rio de Janeiro,Brazil,False
+2010-10-03,Belgium,Portugal,2,0,Friendly,Brussels,Belgium,False
+2010-10-07,Italy,Egypt,0,1,Friendly,Rome,Italy,False
+2010-10-08,India,Bhutan,0,1,Friendly,Dubai,United Arab Emirates,True
+2010-10-09,South Korea,Japan,0,0,Friendly,Seoul,South Korea,False
+2010-10-11,Japan,Iran,2,1,FIFA World Cup qualification,Tokyo,Japan,False
+2010-11-05,Uruguay,Croatia,2,0,UEFA Nations League,Montevideo,Uruguay,False
+2010-12-12,Egypt,Uruguay,0,0,AFC Asian Cup,Dubai,United Arab Emirates,True
+2010-12-26,India,Uruguay,0,5,Friendly,Kolkata,India,False
+2010-12-30,Nigeria,Brazil,0,0,UEFA Nations League,Lagos,Nigeria,False
+2011-01-03,Belgium,France,1,1,Friendly,Istanbul,Turkey,True
+2011-01-08,India,Germany,0,2,FIFA World Cup,Istanbul,Turkey,True
+2011-02-07,Belgium,USA,1,1,UEFA Euro qualification,Brussels,Belgium,False
+2011-02-11,Italy,Portugal,2,1,Friendly,Rome,Italy,False
+2011-02-24,Argentina,Spain,4,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2011-03-16,Brazil,Croatia,0,0,Friendly,Rio de Janeiro,Brazil,False
+2011-04-08,South Korea,Nigeria,4,1,Copa America,Miami,United States,True
+2011-04-18,Japan,Morocco,1,0,UEFA Nations League,Tokyo,Japan,False
+2011-04-23,Nepal,Uruguay,3,2,Friendly,Kathmandu,Nepal,False
+2011-05-07,Uruguay,England,2,0,Friendly,Montevideo,Uruguay,False
+2011-05-09,Brazil,Italy,0,1,African Cup of Nations,Rio de Janeiro,Brazil,False
+2011-05-18,Portugal,Germany,1,1,UEFA Euro qualification,Lisbon,Portugal,False
+2011-06-03,Argentina,Belgium,1,2,Friendly,Buenos Aires,Argentina,False
+2011-06-05,England,South Korea,1,0,Copa America,Miami,United States,True
+2011-06-06,Netherlands,England,2,1,FIFA World Cup qualification,Amsterdam,Netherlands,False
+2011-06-12,Netherlands,Nigeria,0,0,UEFA Nations League,Amsterdam,Netherlands,False
+2011-06-21,Sri Lanka,Nigeria,1,1,Copa America,Colombo,Sri Lanka,False
+2011-07-12,Spain,Egypt,0,1,Friendly,Madrid,Spain,False
+2011-07-20,England,Sri Lanka,2,2,UEFA Nations League,London,England,False
+2011-07-27,Japan,India,1,0,UEFA Nations League,Tokyo,Japan,False
+2011-08-22,Portugal,Senegal,3,2,AFC Asian Cup,Lisbon,Portugal,False
+2011-09-14,Uruguay,Sri Lanka,1,0,Friendly,Montevideo,Uruguay,False
+2011-11-10,Japan,Mexico,0,4,Friendly,Tokyo,Japan,False
+2011-11-30,Nepal,Sri Lanka,0,0,UEFA Nations League,Kathmandu,Nepal,False
+2011-12-10,Portugal,Netherlands,1,3,FIFA World Cup,Dubai,United Arab Emirates,True
+2011-12-10,Argentina,Japan,2,2,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2011-12-16,Germany,Nigeria,1,0,Friendly,Munich,Germany,False
+2012-01-27,Argentina,South Korea,0,0,Copa America,Doha,Qatar,True
+2012-02-26,England,Germany,2,0,UEFA Euro qualification,London,England,False
+2012-04-21,Germany,Netherlands,0,0,Friendly,Miami,United States,True
+2012-05-12,Italy,USA,1,3,Friendly,Rome,Italy,False
+2012-05-12,Iran,Nigeria,3,1,Friendly,Tehran,Iran,False
+2012-05-18,Portugal,Nepal,3,1,Friendly,Lisbon,Portugal,False
+2012-06-05,Brazil,USA,1,0,Friendly,Rio de Janeiro,Brazil,False
+2012-06-27,Japan,Egypt,4,1,Friendly,Tokyo,Japan,False
+2012-07-05,France,Bhutan,3,1,UEFA Euro qualification,Paris,France,False
+2012-07-18,Mexico,Spain,0,0,FIFA World Cup,Miami,United States,True
+2012-07-19,India,USA,0,1,FIFA World Cup,Vienna,Austria,True
+2012-07-22,Spain,South Korea,1,0,Copa America,Doha,Qatar,True
+2012-08-12,Senegal,Morocco,1,1,UEFA Euro qualification,Dakar,Senegal,False
+2012-08-25,Australia,South Korea,2,2,UEFA Nations League,Sydney,Australia,False
+2012-09-02,Nepal,Croatia,0,1,FIFA World Cup qualification,Kathmandu,Nepal,False
+2012-09-15,Japan,Belgium,0,1,Friendly,Tokyo,Japan,False
+2012-09-17,Germany,Nepal,1,0,UEFA Nations League,Istanbul,Turkey,True
+2012-09-26,Iran,Nepal,2,1,Friendly,Istanbul,Turkey,True
+2012-10-11,Senegal,Germany,3,1,FIFA World Cup qualification,Dakar,Senegal,False
+2012-10-22,USA,Sri Lanka,2,1,AFC Asian Cup,Chicago,United States,False
+2012-10-24,USA,India,3,0,Friendly,Chicago,United States,False
+2012-10-29,Portugal,USA,4,2,FIFA World Cup,Lisbon,Portugal,False
+2012-10-30,Belgium,Germany,2,2,Friendly,Brussels,Belgium,False
+2012-11-01,Netherlands,Nepal,2,0,Friendly,Amsterdam,Netherlands,False
+2012-11-08,Nigeria,Nepal,2,2,Friendly,Lagos,Nigeria,False
+2012-11-10,Sri Lanka,France,0,0,UEFA Euro qualification,Colombo,Sri Lanka,False
+2012-12-26,Argentina,Nepal,4,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2012-12-29,Netherlands,Spain,0,3,Friendly,Amsterdam,Netherlands,False
+2013-01-01,Croatia,Sri Lanka,2,0,UEFA Euro qualification,Zagreb,Croatia,False
+2013-01-23,Nigeria,Morocco,1,0,Friendly,Lagos,Nigeria,False
+2013-01-31,Netherlands,Spain,3,0,AFC Asian Cup,Vienna,Austria,True
+2013-02-17,Portugal,Japan,2,1,AFC Asian Cup,Dubai,United Arab Emirates,True
+2013-03-30,France,Japan,1,0,UEFA Nations League,Paris,France,False
+2013-04-22,Sri Lanka,Mexico,0,4,Friendly,Colombo,Sri Lanka,False
+2013-05-10,Italy,Japan,3,3,Friendly,Rome,Italy,False
+2013-05-14,Croatia,Uruguay,1,1,UEFA Euro qualification,Zagreb,Croatia,False
+2013-06-07,Argentina,Brazil,1,2,Friendly,Buenos Aires,Argentina,False
+2013-06-17,France,Nigeria,1,2,Friendly,Paris,France,False
+2013-06-27,England,Nepal,1,1,AFC Asian Cup,London,England,False
+2013-07-31,Uruguay,Brazil,0,3,FIFA World Cup qualification,Montevideo,Uruguay,False
+2013-08-04,Senegal,Uruguay,0,0,Friendly,Dakar,Senegal,False
+2013-08-21,Brazil,Morocco,2,1,Friendly,Rio de Janeiro,Brazil,False
+2013-09-01,Morocco,France,0,1,Friendly,Casablanca,Morocco,False
+2013-09-20,Brazil,Iran,2,0,UEFA Euro qualification,Rio de Janeiro,Brazil,False
+2013-09-21,Australia,Nepal,0,1,Friendly,Sydney,Australia,False
+2013-09-21,Brazil,Croatia,2,1,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2013-09-22,Japan,India,3,1,UEFA Nations League,Tokyo,Japan,False
+2013-10-04,Portugal,Belgium,2,5,Friendly,Lisbon,Portugal,False
+2013-10-20,Iran,Nepal,2,3,FIFA World Cup qualification,Tehran,Iran,False
+2013-10-23,Nepal,Portugal,0,1,FIFA World Cup qualification,Kathmandu,Nepal,False
+2013-10-28,Spain,Sri Lanka,3,1,UEFA Nations League,Madrid,Spain,False
+2013-11-02,South Korea,USA,0,3,Copa America,Istanbul,Turkey,True
+2013-11-07,Netherlands,Mexico,0,0,UEFA Euro qualification,Amsterdam,Netherlands,False
+2013-12-01,Australia,Argentina,0,1,Friendly,Sydney,Australia,False
+2013-12-19,Argentina,Bhutan,1,0,Friendly,Vienna,Austria,True
+2013-12-20,England,Iran,2,0,Copa America,Vienna,Austria,True
+2014-02-19,Croatia,India,3,0,FIFA World Cup,Vienna,Austria,True
+2014-02-28,South Korea,Bhutan,2,0,FIFA World Cup qualification,Seoul,South Korea,False
+2014-03-12,Sri Lanka,USA,0,1,Friendly,Colombo,Sri Lanka,False
+2014-03-17,South Korea,Brazil,3,2,Friendly,Seoul,South Korea,False
+2014-03-20,Morocco,Senegal,1,1,UEFA Euro qualification,Casablanca,Morocco,False
+2014-04-02,Germany,Egypt,1,3,UEFA Euro qualification,Munich,Germany,False
+2014-04-07,Argentina,Sri Lanka,2,1,Friendly,Buenos Aires,Argentina,False
+2014-04-23,Belgium,Egypt,2,0,Friendly,Brussels,Belgium,False
+2014-05-01,Nepal,Sri Lanka,0,0,Friendly,Kathmandu,Nepal,False
+2014-05-27,Iran,Netherlands,2,1,UEFA Euro qualification,Tehran,Iran,False
+2014-06-02,South Korea,Uruguay,0,1,UEFA Euro qualification,Seoul,South Korea,False
+2014-07-08,Portugal,Bhutan,2,0,FIFA World Cup qualification,Lisbon,Portugal,False
+2014-08-02,Iran,Nepal,0,3,FIFA World Cup qualification,Tehran,Iran,False
+2014-08-21,Japan,Australia,2,1,Friendly,Tokyo,Japan,False
+2014-10-13,Egypt,Spain,1,0,Friendly,Cairo,Egypt,False
+2014-10-21,Senegal,Netherlands,1,2,AFC Asian Cup,Vienna,Austria,True
+2014-11-08,USA,Croatia,0,0,Friendly,Chicago,United States,False
+2014-11-17,France,Uruguay,4,0,UEFA Euro qualification,Paris,France,False
+2014-11-18,Croatia,Italy,1,1,Copa America,Miami,United States,True
+2014-12-08,Nigeria,Croatia,2,1,FIFA World Cup qualification,Lagos,Nigeria,False
+2015-01-04,France,Netherlands,3,1,FIFA World Cup,Johannesburg,South Africa,True
+2015-01-04,Japan,Spain,0,2,Friendly,Tokyo,Japan,False
+2015-01-16,USA,Germany,1,1,AFC Asian Cup,Doha,Qatar,True
+2015-01-27,France,India,2,2,FIFA World Cup,Dubai,United Arab Emirates,True
+2015-02-01,England,Netherlands,4,2,Friendly,London,England,False
+2015-02-04,Senegal,Morocco,1,1,Friendly,Dakar,Senegal,False
+2015-02-13,Sri Lanka,Morocco,1,1,Friendly,Colombo,Sri Lanka,False
+2015-02-18,USA,Argentina,2,2,FIFA World Cup,Miami,United States,True
+2015-02-19,Bhutan,India,2,3,Copa America,Vienna,Austria,True
+2015-03-01,India,France,0,1,Copa America,Kolkata,India,False
+2015-03-03,South Korea,USA,2,2,FIFA World Cup qualification,Seoul,South Korea,False
+2015-03-11,Italy,Iran,1,2,FIFA World Cup qualification,Rome,Italy,False
+2015-03-14,India,Sri Lanka,1,2,FIFA World Cup qualification,Kolkata,India,False
+2015-04-04,South Korea,Egypt,2,0,Friendly,Seoul,South Korea,False
+2015-04-07,England,Italy,2,4,African Cup of Nations,London,England,False
+2015-04-09,Brazil,France,1,2,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2015-04-16,Uruguay,Germany,1,3,African Cup of Nations,Montevideo,Uruguay,False
+2015-05-24,Morocco,Nepal,0,0,UEFA Euro qualification,Casablanca,Morocco,False
+2015-06-18,Bhutan,Germany,1,1,Friendly,Thimphu,Bhutan,False
+2015-07-24,Australia,Uruguay,2,1,Copa America,Sydney,Australia,False
+2015-07-29,Mexico,Netherlands,1,0,Friendly,Mexico City,Mexico,False
+2015-08-17,Germany,USA,1,1,AFC Asian Cup,Doha,Qatar,True
+2015-08-23,Mexico,South Korea,1,2,AFC Asian Cup,Mexico City,Mexico,False
+2015-09-07,Sri Lanka,Croatia,0,3,UEFA Euro qualification,Colombo,Sri Lanka,False
+2015-09-14,Netherlands,Spain,1,0,Friendly,Doha,Qatar,True
+2015-09-16,Netherlands,Sri Lanka,0,0,Friendly,Amsterdam,Netherlands,False
+2015-10-03,South Korea,Portugal,0,0,Friendly,Seoul,South Korea,False
+2015-11-05,Croatia,Nepal,1,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2015-11-22,Senegal,Egypt,2,1,Copa America,Johannesburg,South Africa,True
+2015-11-28,Netherlands,Bhutan,0,1,FIFA World Cup qualification,Amsterdam,Netherlands,False
+2015-12-08,South Korea,Spain,0,0,Friendly,Dubai,United Arab Emirates,True
+2015-12-17,Brazil,Japan,0,0,Friendly,Vienna,Austria,True
+2016-01-22,India,Croatia,0,7,FIFA World Cup,Istanbul,Turkey,True
+2016-01-31,Argentina,Mexico,3,0,Friendly,Buenos Aires,Argentina,False
+2016-02-15,Nigeria,Brazil,1,1,Friendly,Lagos,Nigeria,False
+2016-02-28,Germany,Egypt,1,0,African Cup of Nations,Munich,Germany,False
+2016-03-08,Nepal,France,1,1,FIFA World Cup qualification,Kathmandu,Nepal,False
+2016-04-01,Mexico,Croatia,1,1,Friendly,Mexico City,Mexico,False
+2016-04-09,Senegal,Netherlands,2,1,Friendly,Dakar,Senegal,False
+2016-04-10,Brazil,Portugal,0,1,UEFA Nations League,Rio de Janeiro,Brazil,False
+2016-04-13,Nigeria,Germany,2,1,AFC Asian Cup,Johannesburg,South Africa,True
+2016-05-03,Portugal,Italy,2,1,AFC Asian Cup,Johannesburg,South Africa,True
+2016-05-03,England,Croatia,1,1,Friendly,Johannesburg,South Africa,True
+2016-05-14,Uruguay,Netherlands,2,2,Friendly,Montevideo,Uruguay,False
+2016-05-21,Iran,India,1,1,Friendly,Tehran,Iran,False
+2016-06-18,Egypt,USA,1,1,FIFA World Cup qualification,Cairo,Egypt,False
+2016-07-08,Morocco,Spain,0,1,Friendly,Casablanca,Morocco,False
+2016-07-15,France,Argentina,1,2,FIFA World Cup,Paris,France,False
+2016-07-16,Belgium,Croatia,2,0,Copa America,Brussels,Belgium,False
+2016-07-19,Brazil,South Korea,1,0,Friendly,Rio de Janeiro,Brazil,False
+2016-07-25,Australia,Croatia,1,1,UEFA Nations League,Sydney,Australia,False
+2016-07-30,France,Australia,0,3,UEFA Nations League,Paris,France,False
+2016-08-30,Mexico,England,0,1,FIFA World Cup,Mexico City,Mexico,False
+2016-09-06,Morocco,Germany,3,1,Friendly,Casablanca,Morocco,False
+2016-09-08,Nigeria,Mexico,1,0,Friendly,Lagos,Nigeria,False
+2016-09-27,USA,Iran,1,1,Copa America,Chicago,United States,False
+2016-12-03,Bhutan,South Korea,0,1,Friendly,Thimphu,Bhutan,False
+2016-12-05,USA,Italy,0,1,Friendly,Chicago,United States,False
+2016-12-14,Sri Lanka,Spain,2,1,Friendly,Colombo,Sri Lanka,False
+2016-12-29,Nigeria,Netherlands,1,2,Friendly,Lagos,Nigeria,False
+2017-01-10,Egypt,England,1,2,Friendly,Cairo,Egypt,False
+2017-01-11,France,Nepal,1,0,Friendly,Vienna,Austria,True
+2017-01-25,Australia,Morocco,2,0,FIFA World Cup,Miami,United States,True
+2017-02-09,Morocco,Croatia,0,1,Friendly,Miami,United States,True
+2017-02-15,India,Belgium,0,1,UEFA Euro qualification,Kolkata,India,False
+2017-02-15,India,Belgium,0,1,UEFA Euro qualification,Kolkata,India,False
+2017-02-28,Italy,Netherlands,0,0,UEFA Nations League,Rome,Italy,False
+2017-03-02,Italy,Mexico,0,1,UEFA Nations League,Rome,Italy,False
+2017-04-01,Senegal,Netherlands,1,0,FIFA World Cup qualification,Dakar,Senegal,False
+2017-04-28,Japan,Egypt,1,2,Friendly,Tokyo,Japan,False
+2017-05-04,USA,France,2,1,Friendly,Chicago,United States,False
+2017-05-05,Croatia,Senegal,0,1,FIFA World Cup qualification,Zagreb,Croatia,False
+2017-05-16,Nigeria,Bhutan,1,0,FIFA World Cup qualification,Lagos,Nigeria,False
+2017-06-17,Australia,France,2,1,FIFA World Cup qualification,Sydney,Australia,False
+2017-06-19,Japan,Germany,1,2,FIFA World Cup qualification,,Japan,False
+2017-07-10,Bhutan,Sri Lanka,1,2,FIFA World Cup qualification,Thimphu,Bhutan,False
+2017-07-16,Portugal,Bhutan,3,1,FIFA World Cup qualification,Lisbon,Portugal,False
+2017-07-16,USA,England,1,2,AFC Asian Cup,Vienna,Austria,True
+2017-07-23,Croatia,Japan,0,1,FIFA World Cup qualification,Zagreb,Croatia,False
+2017-08-09,Brazil,Morocco,1,0,Copa America,Istanbul,Turkey,True
+2017-08-11,Egypt,Morocco,3,1,African Cup of Nations,Cairo,Egypt,False
+2017-09-16,USA,Australia,2,0,UEFA Nations League,Chicago,United States,False
+2017-09-22,Nepal,Japan,0,0,FIFA World Cup qualification,Kathmandu,Nepal,False
+2017-10-06,Uruguay,India,0,0,Friendly,Montevideo,Uruguay,False
+2017-10-21,India,Italy,2,1,FIFA World Cup qualification,Kolkata,India,False
+2017-10-28,Netherlands,Nigeria,1,0,Friendly,Amsterdam,Netherlands,False
+2017-11-09,Uruguay,Iran,1,1,UEFA Nations League,Montevideo,Uruguay,False
+2017-11-27,Nepal,Argentina,1,0,African Cup of Nations,Kathmandu,Nepal,False
+2017-12-09,Japan,Portugal,1,4,FIFA World Cup qualification,Tokyo,Japan,False
+2018-01-01,Germany,Italy,0,1,Friendly,Doha,Qatar,True
+2018-01-20,Nigeria,India,1,0,Friendly,Lagos,Nigeria,False
+2018-02-08,England,Bhutan,3,1,UEFA Nations League,London,England,False
+2018-04-12,Germany,Uruguay,4,2,FIFA World Cup qualification,Munich,Germany,False
+2018-04-26,France,Nigeria,0,1,FIFA World Cup qualification,Paris,France,False
+2018-04-26,Bhutan,England,0,0,Friendly,Thimphu,Bhutan,False
+2018-04-26,Brazil,England,2,0,Friendly,Rio de Janeiro,Brazil,False
+2018-05-04,Germany,France,3,0,Friendly,Munich,Germany,False
+2018-05-14,Germany,Senegal,3,2,Friendly,Munich,Germany,False
+2018-06-03,Belgium,Croatia,3,1,UEFA Euro qualification,Brussels,Belgium,False
+2018-06-08,India,Netherlands,1,1,African Cup of Nations,Kolkata,India,False
+2018-06-10,India,France,1,2,Friendly,Kolkata,India,False
+2018-06-18,Mexico,Italy,2,1,FIFA World Cup qualification,Mexico City,Mexico,False
+2018-06-22,Mexico,Nepal,0,0,Friendly,Mexico City,Mexico,False
+2018-06-25,Egypt,Belgium,0,4,FIFA World Cup qualification,Cairo,Egypt,False
+2018-07-06,Australia,Belgium,0,1,Friendly,Sydney,Australia,False
+2018-07-08,England,Morocco,2,0,Friendly,Miami,United States,True
+2018-08-10,Belgium,Bhutan,1,1,Friendly,,United Arab Emirates,True
+2018-08-14,Germany,USA,3,0,AFC Asian Cup,Munich,Germany,False
+2018-08-17,France,Bhutan,1,0,UEFA Nations League,Paris,France,False
+2018-09-12,USA,Iran,3,1,African Cup of Nations,Chicago,United States,False
+2018-09-20,Germany,Netherlands,3,1,FIFA World Cup qualification,Munich,Germany,False
+2018-10-06,USA,Sri Lanka,3,0,Friendly,Chicago,United States,False
+2018-10-13,England,Italy,0,0,Friendly,London,England,False
+2018-10-24,England,Nigeria,2,1,Friendly,Vienna,Austria,True
+2018-11-21,Bhutan,Argentina,0,4,Friendly,Thimphu,Bhutan,False
+2018-11-29,Argentina,Nepal,1,1,Friendly,Buenos Aires,Argentina,False
+2018-12-16,Argentina,South Korea,1,1,African Cup of Nations,Miami,United States,True
+2018-12-27,Brazil,England,3,0,Friendly,Rio de Janeiro,Brazil,False
+2019-01-07,USA,Argentina,2,1,FIFA World Cup qualification,Chicago,United States,False
+2019-01-10,Nepal,Australia,1,0,Friendly,Kathmandu,Nepal,False
+2019-01-22,Germany,Australia,2,1,UEFA Nations League,Munich,Germany,False
+2019-03-22,Portugal,Nigeria,1,2,FIFA World Cup qualification,Lisbon,Portugal,False
+2019-04-26,Japan,Nepal,3,1,FIFA World Cup qualification,Tokyo,Japan,False
+2019-05-26,Portugal,Nepal,3,1,Friendly,Vienna,Austria,True
+2019-05-26,Portugal,Morocco,2,2,Friendly,Lisbon,Portugal,False
+2019-06-21,Sri Lanka,Iran,3,1,African Cup of Nations,,South Africa,True
+2019-06-25,Egypt,Australia,0,1,Copa America,Cairo,Egypt,False
+2019-08-09,Croatia,Nigeria,1,0,UEFA Nations League,Zagreb,Croatia,False
+2019-09-19,Australia,Iran,3,3,FIFA World Cup,Johannesburg,South Africa,True
+2019-10-15,USA,Japan,0,0,Copa America,Johannesburg,South Africa,True
+2019-11-02,England,South Korea,3,0,Friendly,London,England,False
+2019-11-07,Bhutan,Netherlands,0,0,Friendly,Thimphu,Bhutan,False
+2019-11-07,Belgium,Australia,3,0,UEFA Euro qualification,Brussels,Belgium,False
+2019-11-15,South Korea,England,0,2,FIFA World Cup,Vienna,Austria,True
+2019-11-16,Mexico,Uruguay,3,2,AFC Asian Cup,Johannesburg,South Africa,True
+2020-01-08,France,Portugal,3,0,FIFA World Cup qualification,Paris,France,False
+2020-01-13,Australia,Nigeria,0,2,Friendly,Sydney,Australia,False
+2020-01-23,Australia,India,1,0,Friendly,Sydney,Australia,False
+2020-02-02,South Korea,Sri Lanka,3,2,Friendly,Seoul,South Korea,False
+2020-02-04,Bhutan,India,1,3,UEFA Nations League,Thimphu,Bhutan,False
+2020-02-05,USA,Mexico,0,1,FIFA World Cup qualification,Chicago,United States,False
+2020-03-15,Bhutan,Brazil,0,1,UEFA Euro qualification,Thimphu,Bhutan,False
+2020-03-21,Japan,Uruguay,0,2,UEFA Nations League,Tokyo,Japan,False
+2020-03-29,Nepal,Mexico,1,2,Friendly,Kathmandu,Nepal,False
+2020-04-14,South Korea,Uruguay,1,1,Friendly,Seoul,South Korea,False
+2020-04-20,France,England,0,1,UEFA Euro qualification,Paris,France,False
+2020-04-22,Germany,Portugal,0,1,Friendly,Munich,Germany,False
+2020-05-10,Italy,Belgium,1,0,Friendly,Rome,Italy,False
+2020-05-15,Germany,Croatia,2,1,FIFA World Cup qualification,Munich,Germany,False
+2020-06-14,Belgium,Uruguay,3,0,FIFA World Cup qualification,Brussels,Belgium,False
+2020-06-15,Uruguay,England,3,1,Friendly,Johannesburg,South Africa,True
+2020-06-26,Japan,Bhutan,4,0,FIFA World Cup qualification,Tokyo,Japan,False
+2020-07-10,Nepal,Croatia,2,2,Friendly,Doha,Qatar,True
+2020-08-02,Italy,Argentina,1,1,Friendly,Rome,Italy,False
+2020-08-13,Sri Lanka,Spain,0,0,FIFA World Cup qualification,Colombo,Sri Lanka,False
+2020-08-22,Netherlands,Brazil,0,1,AFC Asian Cup,Dubai,United Arab Emirates,True
+2020-09-08,Nepal,Italy,3,1,FIFA World Cup qualification,Kathmandu,Nepal,False
+2020-09-11,Croatia,Uruguay,2,5,UEFA Euro qualification,Zagreb,Croatia,False
+2020-09-21,Australia,Iran,0,2,African Cup of Nations,Doha,Qatar,True
+2020-09-26,USA,Senegal,0,3,Copa America,Chicago,United States,False
+2020-10-03,Sri Lanka,Belgium,0,0,AFC Asian Cup,Colombo,Sri Lanka,False
+2020-11-18,Netherlands,Bhutan,1,0,Friendly,Istanbul,Turkey,True
+2020-12-27,Italy,Netherlands,2,0,Friendly,Rome,Italy,False
+2021-03-08,Nepal,USA,2,0,UEFA Nations League,Kathmandu,Nepal,False
+2021-04-04,Iran,Egypt,0,2,AFC Asian Cup,Johannesburg,South Africa,True
+2021-04-07,South Korea,England,0,0,Friendly,Doha,Qatar,True
+2021-04-12,Portugal,Japan,1,0,FIFA World Cup qualification,Lisbon,Portugal,False
+2021-04-15,Brazil,Egypt,1,3,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2021-05-02,South Korea,Iran,2,0,Friendly,Johannesburg,South Africa,True
+2021-05-04,Egypt,Bhutan,1,2,Friendly,Cairo,Egypt,False
+2021-07-19,Nepal,Uruguay,1,3,Friendly,Dubai,United Arab Emirates,True
+2021-07-20,Nigeria,Mexico,2,1,FIFA World Cup,Istanbul,Turkey,True
+2021-08-01,Germany,India,3,0,African Cup of Nations,Munich,Germany,False
+2021-08-13,Spain,Senegal,3,2,FIFA World Cup qualification,Madrid,Spain,False
+2021-09-26,Senegal,Egypt,2,0,Friendly,Dakar,Senegal,False
+2021-10-06,Portugal,Egypt,1,0,Friendly,Lisbon,Portugal,False
+2021-10-13,Japan,Portugal,0,1,Copa America,Doha,Qatar,True
+2021-10-16,France,Croatia,3,1,FIFA World Cup qualification,Paris,France,False
+2021-10-16,Uruguay,Brazil,1,0,Friendly,Montevideo,Uruguay,False
+2021-11-08,India,Germany,1,1,Friendly,Kolkata,India,False
+2021-11-24,Germany,India,3,1,Friendly,Munich,Germany,False
+2021-11-30,Germany,Sri Lanka,2,0,FIFA World Cup,Johannesburg,South Africa,True
+2021-12-14,India,Morocco,1,1,AFC Asian Cup,Istanbul,Turkey,True
+2021-12-26,Bhutan,England,4,0,FIFA World Cup qualification,Thimphu,Bhutan,False
+2022-01-04,Sri Lanka,Italy,1,0,FIFA World Cup qualification,Colombo,Sri Lanka,False
+2022-01-05,England,Egypt,0,1,FIFA World Cup qualification,London,England,False
+2022-01-10,Iran,Egypt,0,2,Friendly,Tehran,Iran,False
+2022-01-11,Sri Lanka,South Korea,1,0,Friendly,Colombo,Sri Lanka,False
+2022-02-05,South Korea,Spain,1,1,Friendly,Johannesburg,South Africa,True
+2022-02-27,Sri Lanka,France,2,1,FIFA World Cup qualification,Colombo,Sri Lanka,False
+2022-03-08,USA,Japan,2,0,African Cup of Nations,Chicago,United States,False
+2022-03-28,USA,India,0,2,UEFA Euro qualification,Chicago,United States,False
+2022-03-29,Bhutan,Nepal,2,0,FIFA World Cup qualification,Thimphu,Bhutan,False
+2022-06-01,Argentina,Uruguay,3,0,UEFA Euro qualification,Buenos Aires,Argentina,False
+2022-07-25,Brazil,India,0,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2022-08-05,South Korea,Croatia,1,0,FIFA World Cup qualification,Seoul,South Korea,False
+2022-08-05,Argentina,Spain,0,0,Friendly,Buenos Aires,Argentina,False
+2022-08-08,Nigeria,Japan,3,0,Friendly,Lagos,Nigeria,False
+2022-08-11,Uruguay,Argentina,1,1,UEFA Nations League,Vienna,Austria,True
+2022-08-19,USA,Nigeria,1,2,FIFA World Cup qualification,Chicago,United States,False
+2022-08-19,USA,Croatia,2,1,FIFA World Cup qualification,Chicago,United States,False
+2022-08-29,France,Bhutan,2,0,Friendly,Paris,France,False
+2022-09-03,Italy,Croatia,2,1,African Cup of Nations,Miami,United States,True
+2022-09-27,Egypt,Germany,0,0,AFC Asian Cup,Miami,United States,True
+2022-10-02,Croatia,Bhutan,0,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2022-10-13,Sri Lanka,Portugal,0,2,Friendly,Colombo,Sri Lanka,False
+2022-10-18,Nepal,Argentina,1,3,Friendly,Kathmandu,Nepal,False
+2022-10-22,Argentina,Spain,0,2,UEFA Euro qualification,Buenos Aires,Argentina,False
+2022-10-24,Nepal,England,0,0,UEFA Euro qualification,Kathmandu,Nepal,False
+2022-11-03,Uruguay,Spain,2,0,UEFA Nations League,Montevideo,Uruguay,False
+2022-11-25,Spain,Australia,0,0,Friendly,Madrid,Spain,False
+2023-01-02,France,Senegal,1,1,FIFA World Cup qualification,Paris,France,False
+2023-01-07,Egypt,Bhutan,1,1,AFC Asian Cup,Johannesburg,South Africa,True
+2023-02-15,Japan,Croatia,3,1,Friendly,Tokyo,Japan,False
+2023-03-16,Brazil,Croatia,0,1,Friendly,Dubai,United Arab Emirates,True
+2023-03-20,Morocco,Iran,2,2,UEFA Euro qualification,Casablanca,Morocco,False
+2023-04-25,England,Netherlands,1,3,FIFA World Cup,Miami,United States,True
+2023-05-20,Uruguay,Belgium,0,1,Friendly,Montevideo,Uruguay,False
+2023-05-30,Brazil,England,2,1,UEFA Euro qualification,Rio de Janeiro,Brazil,False
+2023-07-03,Brazil,Nigeria,6,3,Friendly,Rio de Janeiro,Brazil,False
+2023-08-15,Nepal,Nigeria,1,1,Copa America,Kathmandu,Nepal,False
+2023-08-22,Portugal,Nigeria,1,0,Friendly,Lisbon,Portugal,False
+2023-09-23,Argentina,Iran,0,2,Copa America,Miami,United States,True
+2023-09-25,Iran,Argentina,1,3,Friendly,Tehran,Iran,False
+2023-10-08,Brazil,Netherlands,2,1,FIFA World Cup,Johannesburg,South Africa,True
+2023-10-13,Bhutan,USA,1,1,AFC Asian Cup,Thimphu,Bhutan,False
+2023-10-22,Germany,Bhutan,1,0,FIFA World Cup qualification,Munich,Germany,False
+2023-10-26,Senegal,Mexico,2,0,FIFA World Cup qualification,Dakar,Senegal,False
+2023-11-04,Croatia,Senegal,1,1,Friendly,,Croatia,False
+2023-11-27,USA,Iran,0,2,FIFA World Cup qualification,Chicago,United States,False
+2023-12-03,India,Egypt,0,4,Friendly,Kolkata,India,False
+2023-12-11,Uruguay,USA,1,2,FIFA World Cup qualification,Montevideo,Uruguay,False
+2023-12-18,Nigeria,Iran,3,3,FIFA World Cup qualification,Lagos,Nigeria,False
+2023-12-19,Egypt,South Korea,3,1,Friendly,Cairo,Egypt,False
+2024-01-13,USA,Croatia,3,1,Copa America,Chicago,United States,False
+2024-01-25,Italy,Sri Lanka,3,1,Copa America,Istanbul,Turkey,True
+2024-01-27,Australia,South Korea,1,0,Friendly,Sydney,Australia,False
+2024-02-10,Brazil,Croatia,0,2,Friendly,Johannesburg,South Africa,True
+2024-02-17,Brazil,Germany,2,0,Friendly,Rio de Janeiro,Brazil,False
+2024-02-24,Germany,Portugal,2,0,FIFA World Cup qualification,Munich,Germany,False
+2024-03-16,Egypt,Sri Lanka,0,1,Friendly,Cairo,Egypt,False
+2024-03-22,England,Netherlands,1,3,Copa America,Miami,United States,True
+2024-03-22,India,Netherlands,0,1,Friendly,Kolkata,India,False
+2024-03-25,Nigeria,Argentina,1,0,FIFA World Cup qualification,Lagos,Nigeria,False
+2024-04-07,Egypt,France,1,2,UEFA Nations League,Johannesburg,South Africa,True
+2024-04-20,Germany,Brazil,2,1,Friendly,Munich,Germany,False
+2024-05-07,Italy,USA,2,1,Copa America,Rome,Italy,False
+2024-05-14,Brazil,Croatia,2,1,UEFA Euro qualification,Rio de Janeiro,Brazil,False
+2024-05-24,Mexico,USA,0,2,Copa America,Istanbul,Turkey,True
+2024-05-27,Senegal,Brazil,0,3,FIFA World Cup,Johannesburg,South Africa,True
+2024-05-31,Bhutan,USA,2,2,FIFA World Cup qualification,Thimphu,Bhutan,False
+2024-06-02,Germany,Italy,2,1,UEFA Nations League,Munich,Germany,False
+2024-06-09,Brazil,Senegal,3,1,Friendly,Rio de Janeiro,Brazil,False
+2024-06-09,Spain,Senegal,1,4,FIFA World Cup qualification,Madrid,Spain,False
+2024-08-09,Iran,England,2,1,Friendly,Tehran,Iran,False
+2024-09-10,Netherlands,Portugal,1,0,Friendly,Amsterdam,Netherlands,False
+2024-10-13,USA,India,0,1,Friendly,Chicago,United States,False
+2024-10-21,Argentina,Australia,1,3,AFC Asian Cup,Johannesburg,South Africa,True
+2024-11-11,Argentina,Sri Lanka,2,0,UEFA Nations League,Buenos Aires,Argentina,False
+2024-11-16,Senegal,Egypt,1,0,Friendly,Dakar,Senegal,False
+2024-11-22,USA,England,1,1,Copa America,Dubai,United Arab Emirates,True
+2024-12-20,Croatia,France,1,2,Friendly,Zagreb,Croatia,False
+2024-12-24,Portugal,Nigeria,1,2,Friendly,Lisbon,Portugal,False
